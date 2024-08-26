@@ -1,4 +1,4 @@
-package com.example.sratchsdktest.ui.theme
+package com.surpuissant.sdk.kws.demo.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

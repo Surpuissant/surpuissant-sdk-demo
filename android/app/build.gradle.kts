@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.sratchsdktest"
+    namespace = "com.surpuissant.sdk.kws.demo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.sratchsdktest"
+        applicationId = "com.surpuissant.sdk.kws.demo"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

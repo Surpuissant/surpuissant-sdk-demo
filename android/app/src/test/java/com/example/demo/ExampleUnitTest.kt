@@ -1,4 +1,4 @@
-package com.example.sratchsdktest
+package com.example.demo
 
 import org.junit.Test
 

@@ -1,6 +1,5 @@
-package com.example.sratchsdktest.ui.theme
+package com.surpuissant.sdk.kws.demo.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun SratchsdktestTheme(
+fun SurpuissantSDKDemo(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

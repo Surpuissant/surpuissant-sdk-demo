@@ -21,6 +21,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sratchsdktest"
+rootProject.name = "surpuissant.sdk.kws.demo"
 include(":app")
  
