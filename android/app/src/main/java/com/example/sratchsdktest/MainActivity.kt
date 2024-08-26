@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
         Surpuissant.setup(
             Configuration(
                 context = applicationContext,
-                apiKey = "your_api_key",
+                apiKey = "you-api-key",
                 keywords = listOf("surpuissant")
             )
         )
@@ -65,6 +65,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     SratchsdktestTheme {
-        Greeting("Android")
+        Greeting("Surpuissant")
     }
 }
